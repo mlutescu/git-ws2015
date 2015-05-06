@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main(int argc, char** argv) {
-	int i;
-	for(i=0; i<5; i++)
+	int i=0;
+	while(i < 5) {
 		printf("Bye!");
-	return 0;
+		i++;
+	}
 }
