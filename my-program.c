@@ -3,5 +3,7 @@
 
 int main(){
 	cout << "babkkba";
+	int x;
+	cout << "Mwhahahaha";
 	return 0;
 }
