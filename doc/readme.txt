@@ -1,1 +1,2 @@
 HLALLTLFL
+COMMIT 2 pe fis asta
