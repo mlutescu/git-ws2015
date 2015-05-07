@@ -1,0 +1,8 @@
+06.05.2015
+CURS 1 Git
+
+git config
+git init
+git ls-files -sc
+git add
+git commit -m ""
