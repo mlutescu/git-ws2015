@@ -6,3 +6,4 @@ git init
 git ls-files -sc
 git add
 git commit -m ""
+git push origin refs/heads/master:refs/heads/master // copiaza din repository-ul nostru in repository-ul server (official)
