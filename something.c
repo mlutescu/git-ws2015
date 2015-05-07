@@ -9,7 +9,7 @@ class Dog{
 			name = n;
 		}
 		bark(){
-			printf("woof, woof, moma");
+			printf("woof, woof, baby moma, stop!");
 			
 		}
 }
