@@ -1,7 +1,13 @@
-#include<stdio.h>
-int main(){
-	printf("Hello World!\n");
-	return 0;
+#include <stdio.h>
 
+int main(int argc, char** argv)
+{
+   print_extremely_technical_message();
+   return 0;
+}
 
-modificat in my-project
+void print_extremely_technical_message()
+{
+   printf("Ala Bala Protocala\n");
+}
+
