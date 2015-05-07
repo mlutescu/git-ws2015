@@ -4,7 +4,7 @@
 int main(){
 	cout << "babkkba";
 	int x;
-	cout << "Mwhahahaha";
+	cout << "Mai mult mwhahahaa";
 	return 0;
 	HIIHIHIHIHIHIHIdsadsa
 }
