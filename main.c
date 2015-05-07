@@ -2,7 +2,12 @@
 
 int main(int argc, char** argv)
 {
-   printf("Ala Bala\n");
+   print_some_technical_message();
    return 0;
+}
+
+void print_some_technical_message()
+{
+   printf("Ala Bala\n");
 }
 
