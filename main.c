@@ -1,12 +1,12 @@
-TOMATO!!!!!`:wq
+#include <stdio.h>
 
-asdf
-sadf
-asf
-asdfABCD
-asdfABCD
-asdfABCD
-asdfABCD
-asdfABCD
-asd
-sdfd
+int main(int argc, char** argv)
+{
+   print_extremely_technical_message();
+   return 0;
+}
+
+void print_extremely_technical_message()
+{
+   printf("Ala Bala Protocala\n");
+}
