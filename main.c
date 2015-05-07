@@ -8,7 +8,16 @@ void print()
 int main(int argc, char** argv)
 {
 
-	printf("Silence!I will kill you!");
+sfdfsdljfksdjfh
+sdfsjdhfjksdhfksdf
+dfjsdhfjksdhfksjdhf
+sdfkjsdhfkjshdkjfsd
+sjkdfhskjdfhsjkdfhsdf
+jsdfhjksdfhskjdfh
+dsjfhksjdhfkjsdf
+jfhskdfhsdkjfhskdf
+sdlfjlsdkfjlsdfjlsdfjs
+sdlfkjsldkfjsdlfkL:wqprintf("Silence!I will kill you!");
 	return 0;
 
 }
