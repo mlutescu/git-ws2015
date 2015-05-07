@@ -1,2 +1,1 @@
-
-void a_function();
+asdasfds
