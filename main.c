@@ -4,5 +4,4 @@ int main(){
 	return 0;
 
 
-sscbsinjdcsd cbinsi vusino[v au9dniovaeud }
-++++++++++++++
+modificat in my-project
