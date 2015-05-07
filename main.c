@@ -2,7 +2,7 @@
 
 int main(int argc, char** argv)
 {
-   print_extremely_technical_message();
+   print_extremely_technical_message("BS");
    return 0;
 }
 
