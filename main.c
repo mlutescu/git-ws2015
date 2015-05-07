@@ -5,4 +5,5 @@ int main() {
 	printf("New");
 	return 0;	
 	/* New Update */
+	/*Already an ol update*/
 }
