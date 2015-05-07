@@ -8,4 +8,7 @@ class Dog{
 			i = id;
 			name = n;
 		}
+		bark(){
+			printf("woof woof");
+		}
 }
