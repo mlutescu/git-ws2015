@@ -2,6 +2,11 @@
 
 void main(int argc, char **argv)
 {
-  printf("Hello world");
+  print();
   return 0;
+}
+
+void print()
+{
+   printf("Hello world");
 }
