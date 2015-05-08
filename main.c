@@ -10,10 +10,8 @@ gerg'ebge54jgvbe
 
 
 
-void main(int argc, char** argv)
+void print()
 {
-rsgsgsgsgsgsgsgsgsgsgsgfbvrgvbdrgbvdf
-gherdgb
 dfh
 dfghdf
 gsd
@@ -34,4 +32,26 @@ dfgertydfvdfgv
 	ilence!I will kill you!");
 	return 0;
 
-=======
+
+printf("Hello world");
+}
+
+int main(int argc, char** argv)
+{
+
+sfdfsdljfksdjfh
+sdfsjdhfjksdhfksdf
+dfjsdhfjksdhfksjdhf
+sdfkjsdhfkjshdkjfsd
+sjkdfhskjdfhsjkdfhsdf
+jsdfhjksdfhskjdfh
+dsjfhksjdhfkjsdf
+jfhskdfhsdkjfhskdf
+sdlfjlsdkfjlsdfjlsdfjs
+sdlfkjsldkfjsdlfkL:wqprintf("Silence!I will kill you!");
+	return 0;
+
+}
+
+
+>>>>>>> refs/remotes/github/master
